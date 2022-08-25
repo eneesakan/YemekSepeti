@@ -1,0 +1,69 @@
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.pdb
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.AssemblyReference.cache
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormGiris.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Properties.Resources.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.GenerateResource.cache
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormAdmin.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormMusteri.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurant.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantBilgiler.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantMenu.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.MenuElemani.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriBilgilerim.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriSiparislerim.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriYeniSiparis.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantSiparisler.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormAdminListe.resources
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.mdf
+C:\Users\Emir Laptop\source\repos\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti_log.ldf
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.mdf
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti_log.ldf
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.pdb
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.AssemblyReference.cache
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormAdmin.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormAdminListe.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormGiris.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormMusteri.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriBilgilerim.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriSiparislerim.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriYeniSiparis.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurant.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantBilgiler.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantMenu.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantSiparisler.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.MenuElemani.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Properties.Resources.resources
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.GenerateResource.cache
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+C:\Users\enees\Desktop\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\bin\Debug\YemekSepeti.mdf
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\bin\Debug\YemekSepeti_log.ldf
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\bin\Debug\YemekSepeti.exe
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\bin\Debug\YemekSepeti.pdb
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.csproj.AssemblyReference.cache
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormAdmin.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormAdminListe.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormGiris.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormMusteri.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriBilgilerim.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriSiparislerim.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormMusteriYeniSiparis.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurant.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantBilgiler.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantMenu.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.FormRestaurantSiparisler.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.MenuElemani.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.Properties.Resources.resources
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.csproj.GenerateResource.cache
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.exe
+C:\Users\enees\Desktop\170757034_MuhammedEnesAKAN\YemekSepeti\obj\Debug\YemekSepeti.pdb
