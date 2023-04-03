@@ -20,6 +20,7 @@ It is a responsive automation application written in Visual Studio using a Micro
 ### App introduction
 
 https://user-images.githubusercontent.com/84860191/229554287-2c0a1b1a-62e6-44f7-b7dd-e7263b1bd4b4.mp4
+
 ------------
 ### Screenshots
 
@@ -48,6 +49,7 @@ https://user-images.githubusercontent.com/84860191/229554287-2c0a1b1a-62e6-44f7-
   <img src="https://user-images.githubusercontent.com/84860191/229556781-43cd990c-23d6-45b8-83ce-5b78c8054855.png" width="412" />
   <img src="https://user-images.githubusercontent.com/84860191/229556802-7d9d3a15-79e4-4789-a30e-28128639c08a.png" width="412" />
   </p>
+
 ------------
 
 
