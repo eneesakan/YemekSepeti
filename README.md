@@ -1,4 +1,4 @@
-###Yemek Sepeti SQL Server with C# Forms Application
+### Yemek Sepeti SQL Server with C# Forms Application
 
 It is a responsive automation application written in Visual Studio using a Microsoft SQL Server database. In this automation application, there are three different login screens: customer, restaurant and manager.
 
@@ -10,13 +10,13 @@ It is a responsive automation application written in Visual Studio using a Micro
 - It can determine the status of the order received from the customer with options such as receiving, preparing, departed, delivered and rejected. 
 - In the admin panel, there are all information about users, restaurants, orders, menu types and order status. 
 
-###Scope
+### Scope
 
 - MDI is designed as a form
 - There are 3 different login options in the database: Admin, Customer and Restaurant.
 - Transactions such as order created, accepted, canceled and delivered can be performed.
 
-###App introduction
+### App introduction
 
 
 
@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/84860191/229554287-2c0a1b1a-62e6-44f7-
 
 
 
-###Screenshots
+### Screenshots
 
 
 
