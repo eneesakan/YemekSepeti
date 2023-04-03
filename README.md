@@ -23,8 +23,8 @@ https://user-images.githubusercontent.com/84860191/229554287-2c0a1b1a-62e6-44f7-
 ### Screenshots
 
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/84860191/229556467-9c0b64da-f536-45e3-ba98-cfe77ce78af0.png" width="420" />
-  <img src="https://user-images.githubusercontent.com/84860191/229556485-2646d4ac-dff4-421b-abd9-436dfafd25af.png" width="420" />
+  <img src="https://user-images.githubusercontent.com/84860191/229556467-9c0b64da-f536-45e3-ba98-cfe77ce78af0.png" width="415" />
+  <img src="https://user-images.githubusercontent.com/84860191/229556485-2646d4ac-dff4-421b-abd9-436dfafd25af.png" width="415" />
   <br>
   <img src="https://user-images.githubusercontent.com/84860191/229556502-4cb51851-82a7-43fd-a574-8db21574320f.png" width="427" />
   <img src="https://user-images.githubusercontent.com/84860191/229556521-839c0704-737c-40d7-a3cc-612b3da91884.png" width="427" />
